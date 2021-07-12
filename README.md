@@ -5,4 +5,4 @@ You can click the Preview link to take a look at your changes.
 
 - Hi, I'm Yongtae. My Github id is @Yong-tae
 - I'm interested in SW programming.
-- Contact: yongtae@kaist.ac.kr
+- Contact: yongtae7481@gmail.com
